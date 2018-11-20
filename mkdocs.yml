@@ -1,7 +1,7 @@
 site_name: GitPub
 
 nav:
-  - Home: home.md
+  - Home: index.md
   - Contribuindo: contribuindo.md
   - Políticas:
     - Folha de Estilo: policies/folha-de-estilo.md 
