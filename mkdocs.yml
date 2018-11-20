@@ -10,28 +10,28 @@ nav:
     - Issue: policies/issues.md
     - Pull Request: policies/pull-request.md
   - Dinâmica 1:
-    - Priorização Documentos: priorizacao-documentos.md
-    - Rich Picture: richpicture.md
-    - Argumentação: argumentacao.md
+    - Priorização Documentos: dinamica-1/priorizacao-documentos.md
+    - Rich Picture: dinamica-1/richpicture.md
+    - Argumentação: dinamica-1/argumentacao.md
     - Brainstorm: https://github.com/Desenho2018-2/GitPub/wiki/Brainstorm
-    - Questionário: questionario.md
-    - Moscow: moscow.md
-    - Storytelling: storytelling.md
-    - Cenários: cenarios.md
-    - Lexicos: lexicos.md
-    - Protótipo Baixa Fidelidade: prototipo-baixa-fidelidade.md
+    - Questionário: dinamica-1/questionario.md
+    - Moscow: dinamica-1/moscow.md
+    - Storytelling: dinamica-1/storytelling.md
+    - Cenários: dinamica-1/cenarios.md
+    - Lexicos: dinamica-1/lexicos.md
+    - Protótipo Baixa Fidelidade: dinamica-1/prototipo-baixa-fidelidade.md
   - Dinâmica 2:
-    - Metodologia: metodologia.md
+    - Metodologia: dinamica-2/metodologia.md
   - Dinâmica 3:
-    - Product Backlog: product-backlog.md
-    - Diagrama de caso de uso: diagrama-caso-de-uso.md
-    - Diagrama de Classe: diagrama-de-classe.md
-    - Diagrama Sequencial: diagrama-sequencial.md
-    - iStar: iStar.md
-    - Strategic Dependency: strategic-dependency.md
-    - Strategic Rationale: strategic-rationale.md
-    - NFR Framework: nfrFramework.md
-    - Banco de Dados: banco-de-dados.md
+    - Product Backlog: dinamica-3/product-backlog.md
+    - Diagrama de caso de uso: dinamica-3/diagrama-caso-de-uso.md
+    - Diagrama de Classe: dinamica-3/diagrama-de-classe.md
+    - Diagrama Sequencial: dinamica-3/diagrama-sequencial.md
+    - iStar: dinamica-3/iStar.md
+    - Strategic Dependency: dinamica-3/strategic-dependency.md
+    - Strategic Rationale: dinamica-3/strategic-rationale.md
+    - NFR Framework: dinamica-3/nfrFramework.md
+    - Banco de Dados: dinamica-3/banco-de-dados.md
     - Protótipo Alta Fidelidade: /
   
 theme:
