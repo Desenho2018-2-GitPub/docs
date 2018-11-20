@@ -1,0 +1,13 @@
+site_name: GitPub
+
+nav:
+  - Home: index.md
+  
+theme:
+  name: 'material'
+  palette:
+    primary: 'blue'
+    accent: 'blue'
+
+markdown_extensions:
+  - codehilite
