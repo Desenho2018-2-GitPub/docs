@@ -7,4 +7,8 @@
 ---
 
 ## Versão 1
-![diagrama-pacotes](/images/packages_diagram.png)
+![diagrama-pacotes-v1](/images/packages_diagram.png)
+
+
+## Versão 2
+![diagrama-pacotes-v2](https://user-images.githubusercontent.com/26290053/48787850-bba05600-ecd0-11e8-9978-5c8825f67941.png)
