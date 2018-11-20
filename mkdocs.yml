@@ -1,13 +1,46 @@
 site_name: GitPub
 
 nav:
-  - Home: index.md
+  - Home: home.md
+  - Contribuindo: contribuindo.md
+  - Políticas:
+    - Folha de Estilo: policies/folha-de-estilo.md 
+    - Branches: policies/branches.md
+    - Commits: policies/commits.md
+    - Issue: policies/issues.md
+    - Pull Request: policies/pull-request.md
+  - Dinâmica 1:
+    - Priorização Documentos: priorizacao-documentos
+    - Rich Picture: richpicture.md
+    - Argumentação: argumentacao.md
+    - Brainstorm: https://github.com/Desenho2018-2/GitPub/wiki/Brainstorm
+    - Questionário: questionario.md
+    - Moscow: moscow.md
+    - Storytelling: storytelling.md
+    - Cenários: cenarios.md
+    - Lexicos: lexicos.md
+    - Protótipo Baixa Fidelidade: prototipo-baixa-fidelidade.md
+  - Dinâmica 2:
+    - Metodologia: metodologia.md
+  - Dinâmica 3:
+    - Product Backlog: product-backlog.md
+    - Diagrama de caso de uso: diagrama-caso-de-uso.md
+    - Diagrama de Classe: diagrama-de-classe.md
+    - Diagrama Sequencial: diagrama-sequencial.md
+    - iStar: iStar.md
+    - Strategic Dependency: strategic-dependency.md
+    - Strategic Rationale: strategic-rationale.md
+    - NFR Framework: nfrFramework.md
+    - Banco de Dados: banco-de-dados.md
+    - Protótipo Alta Fidelidade: /
   
 theme:
   name: 'material'
   palette:
-    primary: 'blue'
+    primary: 'green'
     accent: 'blue'
 
 markdown_extensions:
   - codehilite
+
+
