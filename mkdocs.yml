@@ -10,7 +10,7 @@ nav:
     - Issue: policies/issues.md
     - Pull Request: policies/pull-request.md
   - Dinâmica 1:
-    - Priorização Documentos: priorizacao-documentos
+    - Priorização Documentos: priorizacao-documentos.md
     - Rich Picture: richpicture.md
     - Argumentação: argumentacao.md
     - Brainstorm: https://github.com/Desenho2018-2/GitPub/wiki/Brainstorm
