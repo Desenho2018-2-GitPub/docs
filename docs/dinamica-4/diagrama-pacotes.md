@@ -7,4 +7,4 @@
 ---
 
 ## Versão 1
-![diagrama-pacotes](images/packages_diagram.png)
+![diagrama-pacotes](/images/packages_diagram.png)

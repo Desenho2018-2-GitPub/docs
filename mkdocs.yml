@@ -13,7 +13,7 @@ nav:
     - Priorização Documentos: dinamica-1/priorizacao-documentos.md
     - Rich Picture: dinamica-1/richpicture.md
     - Argumentação: dinamica-1/argumentacao.md
-    - Brainstorm: https://github.com/Desenho2018-2/GitPub/wiki/Brainstorm
+    - Brainstorm: dinamica-1/brainstorm.md
     - Questionário: dinamica-1/questionario.md
     - Moscow: dinamica-1/moscow.md
     - Storytelling: dinamica-1/storytelling.md
@@ -33,6 +33,13 @@ nav:
     - NFR Framework: dinamica-3/nfrFramework.md
     - Banco de Dados: dinamica-3/banco-de-dados.md
     - Protótipo Alta Fidelidade: /
+  - Dinâmica 4:
+    - Checklist: dinamica-4/checklist.md
+    - Digrama de Pacotes: dinamica-4/diagrama-pacotes.md
+    - Documento de Arquitetura: dinamica-4/documento-arquitetura.md
+    - Matrizes de Rastreabilidade: dinamica-4/matrizes-de-rastreabilidade.md
+    - Plano de Elicitação de Requisitos: dinamica-4/plano-elicitacao-requisitos.md
+    - Pré-rastreabilidade: dinamica-4/pre-rastreabilidade.md
   
 theme:
   name: 'material'
