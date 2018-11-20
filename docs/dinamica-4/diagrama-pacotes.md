@@ -7,7 +7,7 @@
 ---
 
 ## Versão 1
-![diagrama-pacotes-v1](/images/packages_diagram.png)
+![diagrama-pacotes-v1](/docs/images/packages_diagram.png)
 
 
 ## Versão 2
