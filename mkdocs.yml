@@ -40,6 +40,13 @@ nav:
     - Matrizes de Rastreabilidade: dinamica-4/matrizes-de-rastreabilidade.md
     - Plano de Elicitação de Requisitos: dinamica-4/plano-elicitacao-requisitos.md
     - Pré-rastreabilidade: dinamica-4/pre-rastreabilidade.md
+  - Padrões Aplicados:
+    - Observer + decorator (Notifyr): padroes-aplicados/notifyr.md
+    - Decorator (Log): padroes-aplicados/decorator.md
+    - Singleton (Anonymous user): padroes-aplicados/singleton.md
+    - Template method (Django): padroes-aplicados/template-method.md
+    - Facade (Django): padroes-aplicados/facade.md
+    - Class Table Inheritance (Arquitetural): padroes-aplicados/class-table-inheritance.md
   
 theme:
   name: 'material'
