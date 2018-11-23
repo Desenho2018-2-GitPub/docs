@@ -7,20 +7,19 @@
 
 | Data       | Versão | Descrição            |         Autor             |
 |:----------:|:------:|:--------------------:|:-------------------------:|
-| 22/08/2018 | 0.1 | Criação do Documento com Adição da Argumentação  | [João Carlos] |
-| 26/08/2018 | 0.2 | Adição da Introdução e Atualização da Argumentação  |[João Carlos], [Arthur Diniz] |
-| 27/08/2018 | 0.3 | Adição de Argumentação da Daily |[Gabriel Ziegler], [João Carlos] |
-| 28/08/2018 | 0.4 | Adição de Argumentação do Nome do Projeto | [João Carlos] |
-| 02/09/2018 | 0.5 | Realocação da explicação teórica da página  | Romeu Antunes |
-| 06/09/2018 | 0.6 | Revisão | [João Carlos] |
+| 22/08/2018 | 0.1 | Criação do Documento com Adição da Argumentação  | [João Carlos]() |
+| 26/08/2018 | 0.2 | Adição da Introdução e Atualização da Argumentação  |[João Carlos](), [Arthur Diniz]() |
+| 27/08/2018 | 0.3 | Adição de Argumentação da Daily |[Gabriel Ziegler], [João Carlos]() |
+| 28/08/2018 | 0.4 | Adição de Argumentação do Nome do Projeto | [João Carlos]() |
+| 02/09/2018 | 0.5 | Realocação da explicação teórica da página  | [Romeu Antunes]() |
+| 06/09/2018 | 0.6 | Revisão | [João Carlos]() |
+| 23/11/2018 | 0.7 | Revisão | [Arthur Diniz]() |
 
 ---
 
 
 # Índice
 
-[1. Argumentação](#1-argumentação)
-- [Índice](#%C3%ADndice)
 - [1. Argumentação](#1-argumenta%C3%A7%C3%A3o)
     - [1.1 (Tema, Linguagem, Framework)](#11-tema-linguagem-framework)
     - [1.2 (Escolha da daily)](#12-escolha-da-daily)
