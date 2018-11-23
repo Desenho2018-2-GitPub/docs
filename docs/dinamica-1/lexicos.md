@@ -1,14 +1,16 @@
 | Data       | Versão | Descrição               | Autor             |
 |:----------:|:------:|:-----------------------:|:-----------------:|
-| 30/08/2018 | 1.0    | Criação do documento        | Romeu Antunes     |
-| 30/08/2018 | 1.1    | Adição (Plataforma, Upload)        | Romeu Antunes     |
-| 02/09/2018 | 1.2    | Adição (Download, Visitante)        | Romeu Antunes     |
-| 04/09/2018 | 1.3    | Review Page        | Kamilla Costa     |
-| 07/09/2018 | 1.4    | Adição (Estudante, Professor, Administrador)       | Kamilla Costa     |
-| 07/09/2018 | 1.5    | Adição (Comentar, seguir)       | Kamilla Costa     |
-| 08/09/2018 | 1.6    | Adição (Pesquisar)       | Kamilla Costa     |
-| 13/09/2018 | 1.7    | Adição (Criar conta, realizar login, Projeto)       | João Carlos     |
-| 13/09/2018 | 1.8    | Adição (Vincular Projeto)       | João Carlos     |
+| 30/08/2018 | 1.0    | Criação do documento        | [Romeu Antunes](https://github.com/RomeuCarvalhoAntunes)     |
+| 30/08/2018 | 1.1    | Adição (Plataforma, Upload)        | [Romeu Antunes](https://github.com/RomeuCarvalhoAntunes)     |
+| 02/09/2018 | 1.2    | Adição (Download, Visitante)        | [Romeu Antunes](https://github.com/RomeuCarvalhoAntunes)     |
+| 04/09/2018 | 1.3    | Review Page        | [Kamilla Costa](https://github.com/KahCosta)   |
+| 07/09/2018 | 1.4    | Adição (Estudante, Professor, Administrador)       | [Kamilla Costa](https://github.com/KahCosta)     |
+| 07/09/2018 | 1.5    | Adição (Comentar, seguir)       | [Kamilla Costa](https://github.com/KahCosta)     |
+| 08/09/2018 | 1.6    | Adição (Pesquisar)       | [Kamilla Costa](https://github.com/KahCosta)     |
+| 13/09/2018 | 1.7    | Adição (Criar conta, realizar login, Projeto)       | [João Carlos](https://github.com/joao4018)     |
+| 13/09/2018 | 1.8    | Adição (Vincular Projeto)       | [João Carlos](https://github.com/joao4018)     |
+| 23/11/2018 | 1.9    | Revisando documento  | [Arthur Diniz](https://github.com/arthurbdiniz) |
+
 
 
 Léxicos responsáveis por esclarecer qualquer dúvida a respeito de termos utilizados nesta wiki durante o projeto GitPub.
