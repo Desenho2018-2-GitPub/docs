@@ -17,11 +17,20 @@
 ## 2. Diagramas
 &emsp;
 
-### 2.1. Login Aluno
+### 2.1. Login Aluno versão 0.1
 ![Login Aluno](/docs/images/diagrama-sequencial-login-aluno-v1.png)
 
-### 2.2. Visualizar Disciplina
+### 2.1.1 Login Aluno versão 0.2
+![Login Aluno](/docs/images/DiagramaSequencial_aluno.png)
+
+### 2.2. Visualizar Disciplina versão 0.1
 ![Visualizar Disciplina](/docs/images/DiagramaSequencialBuscarDisciplinav1.png)
 
-### 2.3. Vinculo e Desvinculo de disciplina
+### 2.2.1 Visualizar Disciplina versão 0.2
+![Visualizar Disciplina](/docs/images/DiagramaSequencial_visitaDisciplina.png)
+
+### 2.3. Vinculo e Desvinculo de disciplina versão 0.1
 ![Vinculo/Desvinculo de Disciplina](/docs/images/DiagramaSequencialVincularDisciplinav1.png)
+
+### 2.3.1 Vinculo e Desvinculo de disciplina versão 0.2
+![Vinculo/Desvinculo de Disciplina](/docs/images/DiagramaSequencial_ParticiparDisciplina.png)
