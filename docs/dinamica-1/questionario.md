@@ -2,12 +2,14 @@
 
 |Data|Versão|Descrição|Autor|
 |-|-|-|-|
-|29/08/2018|1.0.0| Criação e adição de perguntas | Vitor Falcão |
-|29/08/2018|1.0.1| Adição de perguntas | Romeu Antunes |
-|01/09/2018|1.0.2| Adição de respostas e análise | Kamilla Costa |
+|29/08/2018|1.0.0| Criação e adição de perguntas | [Vitor Falcão](https://github.com/vitorfhc) |
+|29/08/2018|1.0.1| Adição de perguntas | [Romeu Antunes](https://github.com/RomeuCarvalhoAntunes) |
+|01/09/2018|1.0.2| Adição de respostas e análise | [Kamilla Costa](https://github.com/KahCosta) |
 | 03/09/2018 | 1.0.3 | Revisão de conteúdo  | [Romeu Antunes](https://github.com/RomeuCarvalhoAntunes) |
+| 23/09/2018 | 1.0.4 | Revisão de documento  | [Arthur Diniz](https://github.com/arthurbdiniz) |
 
 --- 
+
 ## Questionário
 
 ### Qual seu nível de interesse em um sistema que mantenha diversos projetos de várias disciplinas de maneira centralizada?
