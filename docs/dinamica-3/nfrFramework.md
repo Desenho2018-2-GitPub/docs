@@ -5,6 +5,7 @@
 | Data       | Versão | Descrição            |         Autor             |
 |:----------:|:------:|:--------------------:|:-------------------------:|
 | 07/09/2018 | 0.1 | Criação do Documento com descrição  | [Victor Moura] |
+| 22/11/2018 | 1.0 | Criação do NFR contendo os checks de implementação  | [Victor Moura] |
 
 ## NFR Framework
 
@@ -12,6 +13,10 @@ O Non-functional Requirements Framework (NFR Framework) é uma plataforma de tra
 
 ## Diagramas
 
-* [Versão 1](https://github.com/Desenho2018-2/GitPub/blob/master/docs/images/NFRGitPubv1.png)
+* [Versão 1](https://github.com/Desenho2018-2-GitPub/docs/blob/master/docs/images/NFRGitPubv1.png)
 
-![](https://github.com/Desenho2018-2/GitPub/blob/master/docs/images/NFRGitPubv1.png?raw=true)
+![](https://github.com/Desenho2018-2-GitPub/docs/blob/master/docs/images/NFRGitPubv1.png?raw=true)
+
+* [Versão 2](https://github.com/Desenho2018-2-GitPub/docs/blob/master/docs/images/NFRGitPubv2.png)
+
+![](https://github.com/Desenho2018-2-GitPub/docs/blob/master/docs/images/NFRGitPubv2.png?raw=true)
