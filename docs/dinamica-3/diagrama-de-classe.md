@@ -5,6 +5,7 @@
 | 13/09/2018 | 1.0 | Criação da primeira versão  | [Arthur Diniz](https://github.com/arthurbdiniz) |
 | 13/09/2018 | 1.1 | Atualização do diagrama de acordo com o DER  | [Arthur Diniz](https://github.com/arthurbdiniz) |
 | 13/09/2018 | 1.2 | Atualização do relacionamento role com user  | [Arthur Diniz](https://github.com/arthurbdiniz) |
+| 22/11/2018 | 1.3 | Adição de diagrama de classes versão 4 | [Gabriel Ziegler](https://github.com/gabrielziegler3) |
 ---
 
 
@@ -60,4 +61,5 @@ Relacionamentos entre classes.
 ### Versão 3
 ![diagrama de classe 1](https://user-images.githubusercontent.com/18387694/45525133-1d5fb380-b7a8-11e8-90b0-e72a4dae4903.jpg)
 
-
+### Versão 4
+![diagrama-de-classes-v4](https://user-images.githubusercontent.com/18370133/48924928-15597980-eea5-11e8-8503-ff62c0c8853f.png)
