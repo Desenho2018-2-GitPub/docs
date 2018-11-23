@@ -7,13 +7,13 @@
 
 | Data       | Versão | Descrição            |         Autor             |
 |:----------:|:------:|:--------------------:|:-------------------------:|
-| 22/08/2018 | 0.1 | Criação do Documento com Adição da Argumentação  | [João Carlos]() |
-| 26/08/2018 | 0.2 | Adição da Introdução e Atualização da Argumentação  |[João Carlos](), [Arthur Diniz]() |
-| 27/08/2018 | 0.3 | Adição de Argumentação da Daily |[Gabriel Ziegler], [João Carlos]() |
-| 28/08/2018 | 0.4 | Adição de Argumentação do Nome do Projeto | [João Carlos]() |
-| 02/09/2018 | 0.5 | Realocação da explicação teórica da página  | [Romeu Antunes]() |
-| 06/09/2018 | 0.6 | Revisão | [João Carlos]() |
-| 23/11/2018 | 0.7 | Revisão | [Arthur Diniz]() |
+| 22/08/2018 | 0.1 | Criação do Documento com Adição da Argumentação  | [João Carlos](https://github.com/joao4018) |
+| 26/08/2018 | 0.2 | Adição da Introdução e Atualização da Argumentação  |[João Carlos](https://github.com/joao4018), [Arthur Diniz](https://github.com/arthurbdiniz) |
+| 27/08/2018 | 0.3 | Adição de Argumentação da Daily |[Gabriel Ziegler], [João Carlos](https://github.com/joao4018) |
+| 28/08/2018 | 0.4 | Adição de Argumentação do Nome do Projeto | [João Carlos](https://github.com/joao4018) |
+| 02/09/2018 | 0.5 | Realocação da explicação teórica da página  | [Romeu Antunes](https://github.com/RomeuCarvalhoAntunes) |
+| 06/09/2018 | 0.6 | Revisão | [João Carlos](https://github.com/joao4018) |
+| 23/11/2018 | 0.7 | Revisão | [Arthur Diniz](https://github.com/arthurbdiniz) |
 
 ---
 

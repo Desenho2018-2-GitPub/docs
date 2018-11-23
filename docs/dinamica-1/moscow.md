@@ -1,8 +1,9 @@
 ### Histórico
 |Data|Versão|Descrição|Autor(es)|
 |--|--|--|--|
-| 01/09/2018 | 0.1 | Criação modelo da tabela do MoSCoW e adicionando primeiras funcionalidades | Kamilla Costa |
+| 01/09/2018 | 0.1 | Criação modelo da tabela do MoSCoW e adicionando primeiras funcionalidades | [Kamilla Costa](https://github.com/KahCosta) |
 | 03/09/2018 | 1.1 | Revisão de conteúdo  | [Romeu Antunes](https://github.com/RomeuCarvalhoAntunes) |
+| 23/11/2018 | 1.2    | Revisando documento  | [Arthur Diniz](https://github.com/arthurbdiniz) |
 
 
 1. [Introdução](#1-introdução)  

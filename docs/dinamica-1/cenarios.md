@@ -1,6 +1,6 @@
 | Data       | Versão | Descrição               | Autor             |
 |:----------:|:------:|:-----------------------:|:-----------------:|
-| 31/08/2018 | 1.0    | Criação do documento        | Romeu Antunes     |
+| 31/08/2018 | 1.0    | Criação do documento | [Romeu Antunes](https://github.com/RomeuCarvalhoAntunes)     |
 | 1/09/2018 | 1.1 | Revisando documento  | [Arthur Diniz](https://github.com/arthurbdiniz) |
 
 

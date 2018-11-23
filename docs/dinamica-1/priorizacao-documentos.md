@@ -2,10 +2,11 @@
 
 |Data|Versão|Alteração|Autor|
 |:--:|:----:|:-------:|:---:|
-|27/08/2018|0.1|Criação do documento|Gabriel Ziegler|
-|28/08/2018|0.2|Adição da tabela do MoSCoW|Gabriel Ziegler|
-|28/08/2018|0.3|Atualização de documentos na tabela do MoSCoW|Gabriel Ziegler, João Carlos|
+|27/08/2018|0.1|Criação do documento| [Gabriel Ziegler](https://github.com/gabrielziegler3)|
+|28/08/2018|0.2|Adição da tabela do MoSCoW| [Gabriel Ziegler](https://github.com/gabrielziegler3)|
+|28/08/2018|0.3|Atualização de documentos na tabela do MoSCoW| [Gabriel Ziegler](https://github.com/gabrielziegler3), [João Carlos](https://github.com/joao4018)|
 | 03/09/2018 | 0.4 | Revisão de conteúdo  | [Romeu Antunes](https://github.com/RomeuCarvalhoAntunes) |
+| 23/11/2018 | 0.5 | Revisão do histórico de revisão  | [Arthur Diniz](https://github.com/arthurbdiniz) |
 
 
 # Priorização dos documentos
