@@ -1,3 +1,9 @@
+| Data       | Versão | Descrição            |         Autor             |
+|:----------:|:------:|:--------------------:|:-------------------------:|
+| 02/09/2018 | 1.0 | Inicindo documento com a landing page  | [Arthur Diniz](https://github.com/arthurbdiniz) |
+| 03/09/2018 | 1.1 | Fazendo as telas de login e register  | [Arthur Diniz](https://github.com/arthurbdiniz) |
+| 05/09/2018 | 1.2 | Fazendo as telas de Usuário logado e perfil  | [Arthur Diniz](https://github.com/arthurbdiniz) |
+
 # Landing
 ![2018-8-23_101128-1](https://user-images.githubusercontent.com/18387694/44559718-308be000-a722-11e8-83ac-b9d8a34645e4.jpg)
 
