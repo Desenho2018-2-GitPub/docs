@@ -21,8 +21,6 @@ nav:
     - Lexicos: dinamica-1/lexicos.md
     - Protótipo Baixa Fidelidade: dinamica-1/prototipo-baixa-fidelidade.md
   - Dinâmica 2:
-    - Metodologia: dinamica-2/metodologia.md
-  - Dinâmica 3:
     - Product Backlog: dinamica-3/product-backlog.md
     - Diagrama de caso de uso: dinamica-3/diagrama-caso-de-uso.md
     - Diagrama de Classe: dinamica-3/diagrama-de-classe.md
@@ -33,7 +31,7 @@ nav:
     - NFR Framework: dinamica-3/nfrFramework.md
     - Banco de Dados: dinamica-3/banco-de-dados.md
     - Protótipo Alta Fidelidade: /
-  - Dinâmica 4:
+  - Dinâmica 3:
     - Checklist: dinamica-4/checklist.md
     - Digrama de Pacotes: dinamica-4/diagrama-pacotes.md
     - Documento de Arquitetura: dinamica-4/documento-arquitetura.md
@@ -43,6 +41,7 @@ nav:
   - Padrões Aplicados:
     - Observer + decorator (Notifyr): padroes-aplicados/notifyr.md
     - Padrões: padroes-aplicados/padroes.md
+  - Metodologia: dinamica-2/metodologia.md
   - Analise Metodologia de Desenvolvimento: reports/analise_metodologia_de_desenvolvimento.md
   
 theme:
