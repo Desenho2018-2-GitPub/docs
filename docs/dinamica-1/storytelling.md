@@ -4,6 +4,7 @@
 | 28/08/2018 | 0.1 | Adicionando StoryTelling Criação/visualização disciplina | [Kamilla Costa](https://github.com/KahCosta) |
 | 23/11/2018 | 1.0   | Revisando documento  | [Arthur Diniz](https://github.com/arthurbdiniz) |
 
+
 ## Sumário
 1. [Introdução](#1-introdução)  
 2. [Storytelling Criação e Visualização de disciplinas](#2-storytelling-criação-e-visualização-de-disciplinas)
