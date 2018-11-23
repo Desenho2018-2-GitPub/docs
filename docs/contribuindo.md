@@ -33,6 +33,12 @@ $ mkdocs --version
 mkdocs, version 0.15.3
 ```
 
+## Instalando o Tema
+Instale o tema material usando pip:
+```
+pip install mkdocs-material
+```
+
 ## Ambiente de Teste
 Há um único arquivo de configuração nomeado mkdocs.ymle uma pasta chamada  docsque conterá seus arquivos de origem da documentação. No momento, a docs pasta contém apenas uma única página de documentação, chamada index.md.
 

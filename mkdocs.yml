@@ -47,6 +47,7 @@ nav:
     - Template method (Django): padroes-aplicados/template-method.md
     - Facade (Django): padroes-aplicados/facade.md
     - Class Table Inheritance (Arquitetural): padroes-aplicados/class-table-inheritance.md
+  - Analise Metodologia de Desenvolvimento: reports/analise_metodologia_de_desenvolvimento.md
   
 theme:
   name: 'material'
