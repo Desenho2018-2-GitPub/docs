@@ -36,7 +36,7 @@
     
     
       
-        <title>Analise metodologia de desenvolvimento - GitPub</title>
+        <title>Analise Metodologia de Desenvolvimento - GitPub</title>
       
     
     
@@ -105,7 +105,7 @@
                 GitPub
               </span>
               <span class="md-header-nav__topic">
-                Analise metodologia de desenvolvimento
+                Analise Metodologia de Desenvolvimento
               </span>
             
           
@@ -794,6 +794,27 @@
   </li>
 
     
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+    <a href="./" title="Analise Metodologia de Desenvolvimento" class="md-nav__link md-nav__link--active">
+      Analise Metodologia de Desenvolvimento
+    </a>
+    
+  </li>
+
+    
   </ul>
 </nav>
                   </div>
@@ -841,7 +862,8 @@
 </tr>
 </tbody>
 </table>
-<h1 id="analise-critica-da-metodologia-de-desenvolvimento">Análise Crítica da Metodologia de Desenvolvimento</h1>
+<h1 id="analise-critica-da-metodologia">Análise Crítica da Metodologia</h1>
+<h1 id="a-metodologia">A metodologia</h1>
 <p>Durante a etapa de documentação, houve esforço para preparar a metodologia de desenvolvimento da aplicação GitPub. Foram feitos os seguintes artefatos:</p>
 <ul>
 <li>Folha de estilo<ul>
@@ -877,15 +899,49 @@
 <li>Backlog da sprint documentado na plataforma ZenHub</li>
 <li>Incrementos feitos em código</li>
 </ul>
+<h1 id="transparencia-no-desenvolvimento">Transparência no desenvolvimento</h1>
 <p>Como iniciativa para melhor documentar as dailies, foi decidido que elas seriam feitas na plataforma GitHub, por meio de issues abertas durante o horário definido previamente. Logo, percebemos que seria trabalhoso demais abrir uma issue todos os dias para documentar o que estava sendo feito. Como tentativa de remover responsabilidades dos membros do time para executar tal tarefa, foi criado um bot que, utilizando a conta do GitHub do LAPPIS (conta disponível para os membros do laboratório realizarem automações de ambiente), abria e fechava as issues automaticamente sempre no horário definido:</p>
 <p><img alt="Exemplo de issue daily" src="https://github.com/Desenho2018-2-GitPub/docs/blob/master/docs/images/daily_automatica.png?raw=true" /></p>
 <p>A experiência foi, inicialmente, positiva e possibilitou apresentar maior transparência sobre o nosso processo de desenvolvimento:</p>
 <p><img alt="Exemplo de issue daily" src="https://github.com/Desenho2018-2-GitPub/docs/blob/master/docs/images/daily_automatica2.png?raw=true" /></p>
 <p>O repositório contendo o código necessário para rodar tal script está disponível <a href="https://github.com/Desenho2018-2-GitPub/CronDailyMeeting">no repositório na organização</a> e funciona a partir de um cronjob executado em um container Docker hospedado em uma máquina virtual no Amazon Elastic Compute Cloud (Amazon EC2).</p>
-<p>Definidas as ferramentas de trabalho, iniciou-se o desenvolvimento a partir da modelagem feita inicialmente. Boa parte da equipe ainda não possuía os conhecimentos necessários para se desenvolver e, não atentos a isto, não foi feito um plano de distribuição de conhecimento. Tal fato reduziu a cadência de contribuições e, dado o ritmo da disciplina, a situação passou a ser crítica, apresentando cenário no qual a metodologia era completamente negligenciada. Após o período no qual estávamos concentrando os nossos esforços pessoais para a avaliação escrita da disciplina, valendo 70% da nota final, voltou-se a pensar no projeto.</p>
-<p>Até então, havia uma aplicação com toda a gerência de configuração de ambiente feita, com o banco de dados modelado mas sem nenhuma funcionalidade disponível para o usuário final. Observou-se que, com o aproximar das dinâmicas, o ritmo de desenvolvimento acelerou-se de forma intensa para que houvesse a entrega do produto esperado. Com o fim da implementação das funcionalidades <em>core</em>, houve curiosidade para entender qual havia sido o problema que ocasionou tal situação. Iniciou-se então, um levantamento entre alguns membros da disciplina, que faziam parte de projetos diferentes, para avaliar se o mesmo havia ocorrido em outros times.</p>
+<p>Além das dailies, definiu-se que todo o projeto teria suas tarefas documentadas em formato de issues no GitHub e seriam organizadas de acordo com a funcionalidade de seleção de <em>milestones</em> disponibilizada pela plataforma. As issues deveriam conter as tarefas necessárias para o desenvolvimento, eventuais problemas e quaisquer comunicações gerais relacionadas ao projeto. As discussões sobre as issues ficariam reservadas para o campo de comentários, onde seria o espaço ideal para se atualizar os demais membros do andamento da tarefa.</p>
+<h1 id="influencia-da-disciplina-no-projeto">Influência da disciplina no projeto</h1>
+<p>Definidas as ferramentas de trabalho, começou-se o desenvolvimento a partir da modelagem feita inicialmente. Boa parte da equipe ainda não possuía os conhecimentos necessários para se desenvolver e, não atentos a isto, não foi feito um plano de distribuição de conhecimento. Tal fato reduziu a cadência de contribuições e, dado o ritmo da disciplina, a situação passou a ser crítica, apresentando cenário no qual a metodologia era completamente negligenciada. Após o período no qual estávamos concentrando os nossos esforços pessoais para a avaliação escrita da disciplina, valendo 70% da nota final, voltou-se a pensar no projeto.</p>
+<p>Até então, havia uma aplicação com toda a gerência de configuração de ambiente feita, com o banco de dados modelado mas sem nenhuma funcionalidade disponível para o usuário final. Observou-se que, com o aproximar da última dinâmica, o ritmo de desenvolvimento acelerou-se de forma intensa para que houvesse a entrega do produto esperado. Com o fim da implementação das funcionalidades <em>core</em>, houve curiosidade para entender qual havia sido o problema que ocasionou tal situação. Iniciou-se então, um levantamento entre alguns membros da disciplina, que faziam parte de projetos diferentes, para avaliar se o mesmo havia ocorrido em outros times.</p>
 <p>Conversas informais apontavam que a desordem era generalizada entre as equipes e, portanto, poderia estar relacionado a algum fator em comum. Métricas foram coletadas com foco na análise da hipótese de que os times diminuíram o ritmo de trabalho e o interesse pessoal no projeto dada a importância dada ao período da avaliação escrita. Os resultados obtidos seguem abaixo:</p>
-<h1 id="todo">todo</h1>
+<h2 id="contribuicoes-commits">Contribuições (commits)</h2>
+<p>Em relação aos commits, observou-se que, em um determinado período de setembro a outubro, as equipes apresentaram poucas ou nenhuma contribuição. Além disso, percebe-se que o ritmo de trabalho tende a aumentar significativamente quando a data da entrega se aproxima. Sabemos que tal prática geralmente vem acompanhada de negligências em relação às políticas de desenvolvimento, diminuindo a qualidade geral da organização e do resultado final de cada time. Os exemplos seguem abaixo:</p>
+<h3 id="exemplo-1">Exemplo 1</h3>
+<p><img alt="exemplo1" src="https://github.com/Desenho2018-2-GitPub/docs/blob/master/docs/images/analise_critica_metodologia/Commits/1/docs.png?raw=true" /></p>
+<h3 id="exemplo-2">Exemplo 2</h3>
+<p><img alt="exemplo2" src="https://github.com/Desenho2018-2-GitPub/docs/blob/master/docs/images/analise_critica_metodologia/Commits/2/2.png?raw=true" /></p>
+<h3 id="exemplo-3">Exemplo 3</h3>
+<p><img alt="exemplo3" src="https://github.com/Desenho2018-2-GitPub/docs/blob/master/docs/images/analise_critica_metodologia/Commits/3/code.png?raw=true" /></p>
+<h3 id="exemplo-4">Exemplo 4</h3>
+<p><img alt="exemplo4" src="https://github.com/Desenho2018-2-GitPub/docs/blob/master/docs/images/analise_critica_metodologia/Commits/5/Captura%20de%20tela%20de%202018-11-21%2009-39-30.png?raw=true" /></p>
+<h3 id="engajamento-dos-membros">Engajamento dos membros</h3>
+<p>Para avaliar o engajamento dos membros de cada time, optou-se por coletar métricas relacionadas às issues no GitHub. Entende-se que membros engajados costumam abrir mais issues e comentar nelas com mais frequência. Os resultados de cada uma delas está apresentado abaixo.</p>
+<h4 id="issues-abertas-por-semana">Issues abertas por semana</h4>
+<h5 id="exemplo-1_1">Exemplo 1</h5>
+<p><img alt="exemplo1" src="https://github.com/Desenho2018-2-GitPub/docs/blob/master/docs/images/analise_critica_metodologia/Issues%20abertas%20por%20semana/1.png?raw=true" /></p>
+<h5 id="exemplo-2_1">Exemplo 2</h5>
+<p><img alt="exemplo1" src="https://github.com/Desenho2018-2-GitPub/docs/blob/master/docs/images/analise_critica_metodologia/Issues%20abertas%20por%20semana/2.png?raw=true" /></p>
+<h5 id="exemplo-3_1">Exemplo 3</h5>
+<p><img alt="exemplo1" src="https://github.com/Desenho2018-2-GitPub/docs/blob/master/docs/images/analise_critica_metodologia/Issues%20abertas%20por%20semana/3.png?raw=true" /></p>
+<h5 id="exemplo-4_1">Exemplo 4</h5>
+<p><img alt="exemplo1" src="https://github.com/Desenho2018-2-GitPub/docs/blob/master/docs/images/analise_critica_metodologia/Issues%20abertas%20por%20semana/gitpub.png?raw=true" /></p>
+<p>Com uma exceção, é possível observar que, mesmo havendo diferenças entre os times, houve a tendência da redução de issues abertas justamente na sprint na qual a queda de contribuições foi menor.</p>
+<h4 id="caracteres-comentados-por-semana">Caracteres comentados por semana</h4>
+<h5 id="exemplo-1_2">Exemplo 1</h5>
+<p><img alt="exemplo1" src="https://github.com/Desenho2018-2-GitPub/docs/blob/master/docs/images/analise_critica_metodologia/Total%20de%20caracteres%20comentados%20por%20semana/1.png?raw=true" /></p>
+<h5 id="exemplo-2_2">Exemplo 2</h5>
+<p><img alt="exemplo1" src="https://github.com/Desenho2018-2-GitPub/docs/blob/master/docs/images/analise_critica_metodologia/Total%20de%20caracteres%20comentados%20por%20semana/2.png?raw=true" /></p>
+<h5 id="exemplo-3_2">Exemplo 3</h5>
+<p><img alt="exemplo1" src="https://github.com/Desenho2018-2-GitPub/docs/blob/master/docs/images/analise_critica_metodologia/Total%20de%20caracteres%20comentados%20por%20semana/gitpub.png?raw=true" /></p>
+<p>Apesar de um dos times não ter trabalhado com comentários nas issues, por isso esta métrica apresenta um exemplo a menos, também é possível observar que a queda de engajamento é visível durante o período analisado. No último caso, ainda percebe-se que o costume de não comentar nas issues foi levado adiante mesmo com a retomada das contribuições.</p>
+<h1 id="conclusao">Conclusão</h1>
+<p>Dadas as métricas analisadas e a hipótese inicialmente levantada, acredita-se que a avaliação escrita (feita no dia 19/10/2018) e os dias que a antecederam influenciaram diretamente na queda de produtividade dos projetos e, consequentemente, na aplicação correta das metodologias definidas. Sugere-se que o método de avaliação da disciplina seja reavaliado para que este problema não ocorra novamente nos próximos semestres. Este documento apresenta a opinião da equipe.</p>
                 
                   
                 
@@ -902,6 +958,27 @@
       
         
 <footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href="../../padroes-aplicados/class-table-inheritance/" title="Class Table Inheritance (Arquitetural)" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                Class Table Inheritance (Arquitetural)
+              </span>
+            </div>
+          </a>
+        
+        
+      </nav>
+    </div>
   
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
