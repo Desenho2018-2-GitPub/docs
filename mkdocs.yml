@@ -42,11 +42,7 @@ nav:
     - Pré-rastreabilidade: dinamica-4/pre-rastreabilidade.md
   - Padrões Aplicados:
     - Observer + decorator (Notifyr): padroes-aplicados/notifyr.md
-    - Decorator (Log): padroes-aplicados/decorator.md
-    - Singleton (Anonymous user): padroes-aplicados/singleton.md
-    - Template method (Django): padroes-aplicados/template-method.md
-    - Facade (Django): padroes-aplicados/facade.md
-    - Class Table Inheritance (Arquitetural): padroes-aplicados/class-table-inheritance.md
+    - Padrões: padroes-aplicados/padroes.md
   - Analise Metodologia de Desenvolvimento: reports/analise_metodologia_de_desenvolvimento.md
   
 theme:
