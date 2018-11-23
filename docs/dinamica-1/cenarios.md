@@ -1,12 +1,13 @@
 | Data       | Versão | Descrição               | Autor             |
 |:----------:|:------:|:-----------------------:|:-----------------:|
 | 31/08/2018 | 1.0    | Criação do documento        | Romeu Antunes     |
+| 1/09/2018 | 1.1 | Revisando documento  | [Arthur Diniz](https://github.com/arthurbdiniz) |
 
 
 ## Cenários Geral.
 Aqui estão listados e descritos os cenários que não necessitam de especificação de Ator.
 
-###### Acessar o GitPub pelo navegador
+#### Acessar o GitPub pelo navegador
 
 | Título    	| Acessar o GitPub pelo navegador|
 | -------- | ----------------------------------------------------------------------------- |
@@ -20,7 +21,7 @@ Aqui estão listados e descritos os cenários que não necessitam de especifica�
 
 <br/>
 
-###### Visualizar projetos de uma disciplina
+#### Visualizar projetos de uma disciplina
 
 | Título    	| Visualizar projetos de uma disciplina|
 | -------- | ----------------------------------------------------------------------------- |
@@ -34,7 +35,7 @@ Aqui estão listados e descritos os cenários que não necessitam de especifica�
 
 <br/>
 
-###### Buscar conteúdo por meio de filtros
+#### Buscar conteúdo por meio de filtros
 
 | Título    	| Buscar conteúdo por meio de filtros|
 | -------- | ----------------------------------------------------------------------------- |
@@ -51,7 +52,7 @@ Aqui estão listados e descritos os cenários que não necessitam de especifica�
 ## Cenários de Visitante
 Aqui estão listados e descritos os cenários que o Ator Visitante pode realizar.
 
-###### Cadastrar-se na plataforma GitPub
+#### Cadastrar-se na plataforma GitPub
 
 | Título    	| Cadastrar-se na plataforma GitPub |
 | -------- | ----------------------------------------------------------------------------- |
@@ -68,7 +69,7 @@ Aqui estão listados e descritos os cenários que o Ator Visitante pode realizar
 ## Cenários de não Visitante
 Aqui estão listados e descritos os cenários que o Ator necessita de autenticação.
 
-###### Comentar em um projeto
+#### Comentar em um projeto
 
 | Título    	| Comentar em um projeto |
 | -------- | ----------------------------------------------------------------------------- |
@@ -82,7 +83,7 @@ Aqui estão listados e descritos os cenários que o Ator necessita de autentica�
 
 <br/>
 
-###### Se inscrever em uma disciplina
+#### Se inscrever em uma disciplina
 
 | Título    	| Se inscrever em uma disciplina |
 | -------- | ----------------------------------------------------------------------------- |
@@ -96,7 +97,7 @@ Aqui estão listados e descritos os cenários que o Ator necessita de autentica�
 
 <br/>
 
-###### Gerenciar disciplinas no sistema
+#### Gerenciar disciplinas no sistema
 
 | Título    	| Gerenciar disciplinas no sistema |
 | -------- | ----------------------------------------------------------------------------- |
@@ -110,7 +111,7 @@ Aqui estão listados e descritos os cenários que o Ator necessita de autentica�
 
 <br/>
 
-###### Gerenciar projetos no sistema
+#### Gerenciar projetos no sistema
 
 | Título    	| Gerenciar projetos no sistema |
 | -------- | ----------------------------------------------------------------------------- |
@@ -124,7 +125,7 @@ Aqui estão listados e descritos os cenários que o Ator necessita de autentica�
 
 <br/>
 
-###### Gerenciar comentários no sistema
+#### Gerenciar comentários no sistema
 
 | Título    	| Gerenciar comentários no sistema |
 | -------- | ----------------------------------------------------------------------------- |
@@ -138,7 +139,7 @@ Aqui estão listados e descritos os cenários que o Ator necessita de autentica�
 
 <br/>
 
-###### Linkar arquivos do git em um projeto
+#### Linkar arquivos do git em um projeto
 
 | Título    	| Linkar arquivos do git em um projeto |
 | -------- | ----------------------------------------------------------------------------- |
@@ -152,7 +153,7 @@ Aqui estão listados e descritos os cenários que o Ator necessita de autentica�
 
 <br/>
 
-###### Linkar arquivos via upload em um projeto
+#### Linkar arquivos via upload em um projeto
 
 | Título    	| Linkar arquivos via upload em um projeto |
 | -------- | ----------------------------------------------------------------------------- |
